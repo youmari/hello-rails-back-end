@@ -1,6 +1,6 @@
 # hello-rails-back-end
 ## hello-rails-Front-end 
-  [Hello rails Front-end app](https://github.com/youmari/hello-rails-front-end)
+  [Hello rails Front-end app](https://github.com/youmari/hello-react-front-end/)
 > hello-rails-back-end is an Api that will generate a random greeting for you 
 
 

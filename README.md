@@ -1,10 +1,8 @@
 # hello-rails-back-end
-
+## hello-rails-Front-end 
+  [Hello rails Front-end app](https://github.com/youmari/hello-rails-front-end)
 > hello-rails-back-end is an Api that will generate a random greeting for you 
 
-# ERD (Entity Relationship Diagram)
-- hello-rails-back-end follows this diagram for creating migration files and database
-![screenshot](./public/all_in_one_erd.png)
 
 Additional description about the project and its features.
 
@@ -18,7 +16,6 @@ Additional description about the project and its features.
 
 - Rubocop
 - RAILS (v7)
-
 ## How to Setup
 
 > You can simply clone or download [this repository](https://github.com/youmari/hello-rails-back-end.git), and use your favorite browser or code editor to run this program.

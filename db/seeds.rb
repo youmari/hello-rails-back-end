@@ -5,3 +5,16 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+greeting_atrributes = [
+  { text: "hello" },
+  { text: "haha" },
+  { text: "whats up!" },
+  { text: "hey dude!" },
+  { text: "nice smile!" }
+]
+puts "seeding data..."
+greeting_atrributes.each do |attributes|
+  Message.create(attributes) unless Message.where(attributes).first
+end
+
+puts "done!"
